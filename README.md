@@ -99,7 +99,7 @@ This project is licensed under the GNU Affero General Public License (AGPL). Ple
 
 ## Contact
 
-For any inquiries or further information, please contact [your-email@example.com](mailto:info@openco.ca).
+For any inquiries or further information, please contact [our team](mailto:info@openco.ca).
 
 ---
 
